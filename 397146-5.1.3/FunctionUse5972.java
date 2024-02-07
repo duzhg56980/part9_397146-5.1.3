@@ -1,0 +1,6 @@
+import cn.hutool.db.Db;
+public class FunctionUse5972 {
+public void funcUse() {
+Db db = new Db();
+}
+}
